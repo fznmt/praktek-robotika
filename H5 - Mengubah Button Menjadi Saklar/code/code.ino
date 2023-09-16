@@ -1,5 +1,5 @@
-#define button 2
-#define led 3
+int button = 2;
+int led = 3;
 int statusLED;
 
 void setup() {
